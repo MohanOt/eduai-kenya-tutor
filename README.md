@@ -229,3 +229,5 @@ Pitch dec link: https://gamma.app/docs/Study-Buddy-Flashcard-Generator-tccvgwued
 • Flashcard Generator (interactive, stored in DB).
 • IntaSend payments integrated with premium upgrade.
 • Deploy frontend on Vercel, backend on Render/Heroku, database & auth via Supabase.
+
+Pitch Dec link : https://gamma.app/docs/Study-Buddy-Flashcard-Generator-tccvgwued99dkx6
